@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2470346f_002D0fa3_002D4666_002Daa73_002D7183c3634b31/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PondOreille" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::2CF9C5C7-D47B-47D6-9144-372E060965AF::net6.0::tests.PondOreille&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b5ac9700_002Df8ae_002D4660_002Da877_002D3cc341e20134/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Hello" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::2CF9C5C7-D47B-47D6-9144-372E060965AF::net6.0::tests.PondOreille&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ff89e898_002D0fec_002D4c44_002Da46d_002D2cc35624e780/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ReadAndOutPut" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::2CF9C5C7-D47B-47D6-9144-372E060965AF::net6.0::tests.PondOreille.ReadAndOutPut&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::2CF9C5C7-D47B-47D6-9144-372E060965AF::net6.0::tests.PondOreille.OutPutOnlyBaro&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::2CF9C5C7-D47B-47D6-9144-372E060965AF::net6.0::tests.PondOreille.testDate&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::2CF9C5C7-D47B-47D6-9144-372E060965AF::net6.0::tests.PondOreille.NormalizeData&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::2CF9C5C7-D47B-47D6-9144-372E060965AF::net6.0::tests.PondOreille.SimpleCalc&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
